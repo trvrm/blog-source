@@ -1,0 +1,8 @@
+Efficient Postgres Bulk Inserts using Psycopg2 and Unnest
+=========================================================
+
+:tags: Python, Postgres
+:category: Database
+:author: Trevor
+:date: 2015-10-22
+:slug: bulk-psycopg2-inserts
