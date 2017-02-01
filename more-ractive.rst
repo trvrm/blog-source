@@ -61,7 +61,7 @@ We get:
 
 .. raw:: html
 
-    <script src='http://cdn.ractivejs.org/latest/ractive.js'></script>
+    <script src='//cdn.ractivejs.org/latest/ractive.js'></script>
 
     <div id="demo" class="well"></div>
     <script type="text/javascript">
