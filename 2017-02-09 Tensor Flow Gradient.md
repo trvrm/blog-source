@@ -1,6 +1,6 @@
 Title:  Using TensorFlow to compute gradients
 Category: Software
-Tags: Python
+Tags:  Python, TensorFlow, Machine Learning
 Author: Trevor
 Date: 2017-02-09
 
