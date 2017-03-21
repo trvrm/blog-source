@@ -128,7 +128,7 @@ x.shape
 
 ```python
 predictions = inception.predict(x)
-prediction  = decode_predictions(preds)[0][0]
+prediction  = decode_predictions(predictions)[0][0]
 prediction
 ```
 
