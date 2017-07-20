@@ -1,6 +1,6 @@
 Title:  Basic Keras Example
 Category: Software
-Tags: Python, TensorFlow, Machine Learning
+Tags: Python, TensorFlow, Machine Learning, Keras
 Author: Trevor
 Date: 2017-02-26
 
