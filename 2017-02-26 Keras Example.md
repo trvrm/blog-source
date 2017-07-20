@@ -64,7 +64,7 @@ import keras
 from keras.layers import Dense, Activation
 ```
 
-# Create training data.
+## Create training data.
 
 I'm going to create an array of data with two features, *x1* and *x2*
 
@@ -159,7 +159,7 @@ seaborn.lmplot(x="x1", y="x2", hue="y", data=data,fit_reg=False)
 
 
 
-![png](images/basic_keras_example/output_23_1.png)
+![png](/images/basic_keras_example/output_23_1.png)
 
 
 So we have two classes, and we're going to see if we can create a neural network that can distinguish between the two.
@@ -261,7 +261,7 @@ plotPrediction(test,model)
 
 
 
-![png](images/basic_keras_example/output_36_1.png)
+![png](/images/basic_keras_example/output_36_1.png)
 
 
 ## Conclusion

@@ -105,7 +105,7 @@ img
 
 
 
-![png](images/inception/output_14_0.png)
+![png](/images/inception/output_14_0.png)
 
 
 
