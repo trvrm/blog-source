@@ -90,7 +90,7 @@ mp.plot(x_,gradient)
 ```
 
 
-![png](images/tensorflow_gradient/output_12_1.png)
+![png](/images/tensorflow_gradient/output_12_1.png)
 
 
 Note that I haven't had to declare anywhere that the first derivative of `sine(x)` is `cosine(x)`. TensorFlow seems to be able to figure that out analytically, which is pretty cool.
