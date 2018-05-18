@@ -96,7 +96,7 @@ data.head()
 
 
 <div>
-<table border="1" class="dataframe table table-striped table-bordered">
+<table border="1" class="dataframe table table-striped table-bordered is-striped is-bordered">
   <thead>
     <tr style="text-align: right;">
       <th></th>

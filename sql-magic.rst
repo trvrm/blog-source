@@ -80,7 +80,7 @@ were at the :code:`psql` command line.
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>first</th>
             <th>last</th>
@@ -136,7 +136,7 @@ And we can even get our recordset as a **pandas** dataframe
 .. raw:: html
 
     <div style="max-height:1000px;max-width:1500px;overflow:auto;">
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
       <thead>
         <tr style="text-align: right;">
           <th></th>

@@ -54,7 +54,7 @@ without you asking.
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>now</th>
         </tr>
@@ -80,7 +80,7 @@ But if we put the output from `now()`:code: into a field that has type
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>now</th>
         </tr>
@@ -103,7 +103,7 @@ get:
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>timezone</th>
         </tr>
@@ -181,7 +181,7 @@ time zone designation
 
 .. raw:: html
 
-   </td></tr><table class="table table-bordered table-striped">
+   </td></tr><table class="table table-bordered table-striped is-striped is-bordered">
 
 The danger here is that the `AT TIMEZONE`:code: construct goes **both
 ways**. If you don't know what type you're feeding in, you won't know
@@ -215,7 +215,7 @@ Which I then populate:
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>created</th>
@@ -272,7 +272,7 @@ definition:
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>created</th>
@@ -302,7 +302,7 @@ it'll still get messed up.
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>created</th>
@@ -345,7 +345,7 @@ specify *which* timezone I want the dates formatted too:
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>created</th>
@@ -375,7 +375,7 @@ time zone.
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>timezone</th>
@@ -402,7 +402,7 @@ gives me the time formatted in the UTC timezone, and
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>timezone</th>
         </tr>
@@ -474,7 +474,7 @@ and we're going to store it in the database via some Python code.
 
 .. raw:: html
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>created</th>

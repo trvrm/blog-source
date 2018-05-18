@@ -298,7 +298,7 @@ Finally, I use Pandas to plot the output data from these tests.
 .. raw:: html
 
     <div style="max-height:1000px;max-width:1500px;overflow:auto;">
-    <table border="1" class="dataframe table table-striped table-bordered">
+    <table border="1" class="dataframe table table-striped table-bordered is-striped is-bordered">
       <thead>
         <tr style="text-align: right;">
           <th></th>

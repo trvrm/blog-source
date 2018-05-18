@@ -73,7 +73,7 @@ We can query this in the usual way:
 
 .. raw:: html
 
-    <table class="table table-bordered">
+    <table class="table table-bordered  is-striped is-bordered">
         <tr>
             <th>name</th>
         </tr>
@@ -103,7 +103,7 @@ But we can also use :code:`json_agg()`
 
 .. raw:: html
 
-    <table class="table table-bordered">
+    <table class="table table-bordered  is-striped is-bordered">
         <tr>
             <th>json_agg</th>
         </tr>
@@ -154,7 +154,7 @@ they've performed, we *could* do it this way:
 
 .. raw:: html
 
-    <table class="table table-bordered">
+    <table class="table table-bordered  is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>type</th>
@@ -208,7 +208,7 @@ Enter :code:`json_agg()`
 
 .. raw:: html
 
-    <table class="table table-bordered">
+    <table class="table table-bordered is-striped is-bordered">
         <tr>
             <th>name</th>
             <th>json_agg</th>
